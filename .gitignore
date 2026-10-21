@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+### IDE ###
+.idea/
+.vscode/
+
+### Mac OS ###
+.DS_Store
