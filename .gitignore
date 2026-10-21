@@ -1,11 +1,17 @@
+### сборка и окружение ###
 __pycache__/
 *.pyc
 .venv/
 venv/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
 
 ### IDE ###
 .idea/
 .vscode/
 
-### Mac OS ###
+### ОС ###
 .DS_Store
+Thumbs.db
